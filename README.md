@@ -2,6 +2,6 @@
 
 - 🔭 Atualmente estou desenvolvendo meu PortFolio juntamente com projetos pessoais.
 - 🌱 Estou no primeiro período da faculdade de Analise e Desenvolvimento de Sistemas, por conta própria estou aprendendo PHP, JS, HTML e CSS.
-- 📫 How to reach me: lucasrosaf.dev@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Sou fanático pela saga Harry Potter 😀⚡
+- 📫 Entre em contato comigo: lucasrosaf.dev@gmail.com
+- 😄 ele/dele
+- ⚡ Sou fanático pela saga Harry Potter 😀⚡
